@@ -1,0 +1,11 @@
+div {
+    padding: 20px;
+    width: 300px;
+    border: 1px black solid;
+}
+
+.resultStyle {
+    border: 1px black solid;
+    background-color: red;
+    width: 100px;
+}
